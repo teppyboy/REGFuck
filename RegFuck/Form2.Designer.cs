@@ -68,6 +68,8 @@
             this.Controls.Add(this.procText);
             this.Controls.Add(this.progressBar1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Form2";
             this.Resizable = false;
             this.Text = "REGFuck";
