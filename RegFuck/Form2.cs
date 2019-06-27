@@ -2,10 +2,11 @@
 using System;
 using System.Threading;
 using System.Windows.Forms;
+using MetroFramework.Forms;
 
 namespace RegFuck
 {
-    public partial class Form2 : Form
+    public partial class Form2 : MetroForm
     {
         double damage = 0;
         public Form2(double damage)
@@ -145,6 +146,25 @@ namespace RegFuck
         private void Form2_Load(object sender, EventArgs e)
         {
             new Thread(fuck).Start();
+        }
+
+        private void ProcessTrack_Tick(object sender, EventArgs e)
+        {
+            if (progressBar1.Value < 100)
+            {
+                if (progressBar1.Value < 10)
+                {
+                    procText.Text = "Processing... [  " + progressBar1.Value + "]";
+                }
+                else
+                {
+                    procText.Text = "Processing... [ " + progressBar1.Value + "]";
+                }
+            }
+            else
+            {
+                procText.Text = "Processing... [" + progressBar1.Value + "]";
+            }
         }
     }
 }

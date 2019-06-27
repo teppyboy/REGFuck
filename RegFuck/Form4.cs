@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Windows.Forms;
+using MetroFramework.Forms;
 
 namespace RegFuck
 {
-    public partial class Form4 : Form
+    public partial class Form4 : MetroForm
     {
         public static double hkcr = 0.05;
         public static double hku = 1.0;
@@ -69,6 +70,51 @@ namespace RegFuck
         {
             if (!int.TryParse(textBox1.Text, out seed))
                 seed = textBox1.Text.GetHashCode();
+        }
+
+        private void Form4_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

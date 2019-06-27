@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Windows.Forms;
+using MetroFramework.Forms;
 
 namespace RegFuck
 {
-    public partial class Form3 : Form
+    public partial class Form3 : MetroForm
     {
         public Form3()
         {
