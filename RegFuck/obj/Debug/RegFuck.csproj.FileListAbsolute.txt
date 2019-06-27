@@ -1,0 +1,17 @@
+G:\REGFuck\REGFuck\RegFuck\bin\Debug\RegFuck.exe.config
+G:\REGFuck\REGFuck\RegFuck\bin\Debug\RegFuck.exe
+G:\REGFuck\REGFuck\RegFuck\bin\Debug\RegFuck.pdb
+G:\REGFuck\REGFuck\RegFuck\bin\Debug\MetroFramework.Design.dll
+G:\REGFuck\REGFuck\RegFuck\bin\Debug\MetroFramework.dll
+G:\REGFuck\REGFuck\RegFuck\bin\Debug\MetroFramework.Fonts.dll
+G:\REGFuck\REGFuck\RegFuck\obj\Debug\RegFuck.csprojAssemblyReference.cache
+G:\REGFuck\REGFuck\RegFuck\obj\Debug\RegFuck.Form1.resources
+G:\REGFuck\REGFuck\RegFuck\obj\Debug\RegFuck.Form2.resources
+G:\REGFuck\REGFuck\RegFuck\obj\Debug\RegFuck.Form3.resources
+G:\REGFuck\REGFuck\RegFuck\obj\Debug\RegFuck.Form4.resources
+G:\REGFuck\REGFuck\RegFuck\obj\Debug\RegFuck.Properties.Resources.resources
+G:\REGFuck\REGFuck\RegFuck\obj\Debug\RegFuck.csproj.GenerateResource.cache
+G:\REGFuck\REGFuck\RegFuck\obj\Debug\RegFuck.csproj.CoreCompileInputs.cache
+G:\REGFuck\REGFuck\RegFuck\obj\Debug\RegFuck.csproj.CopyComplete
+G:\REGFuck\REGFuck\RegFuck\obj\Debug\RegFuck.exe
+G:\REGFuck\REGFuck\RegFuck\obj\Debug\RegFuck.pdb
